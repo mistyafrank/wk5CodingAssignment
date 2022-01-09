@@ -36,7 +36,7 @@ class Animal {
   }
 }
 
-/* created Menu class adding animal to array */
+// created Menu class adding animal to array */
 class Menu {
   constructor() {
     this.animals = [];
